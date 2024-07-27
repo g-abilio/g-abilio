@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/db02d444-03a2-431c-a0cb-349775b57e78/dc0zqfm-bf444754-929c-4ca9-be26-ccd67f9f0002.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RiMDJkNDQ0LTAzYTItNDMxYy1hMGNiLTM0OTc3NWI1N2U3OFwvZGMwenFmbS1iZjQ0NDc1NC05MjljLTRjYTktYmUyNi1jY2Q2N2Y5ZjAwMDIuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zM8ZvuMMJb1FItVpR9vCw_rn0YvvTAJsmLQ-L4C6dXQ", height="350" width="420">
-</p>
+![Snake animation](https://github.com/g-abilio/g-abilio/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="center">Hi 👋, I'm Gabriel Abílio</h1>
 <h3 align="center">Computer Science passionate, learning more every day!</h3>
@@ -9,7 +7,7 @@
 
 - 📫 How to reach me: **gabilio@ufmg.br**
 
-- 📄 Know about my experiences: [http://lattes.cnpq.br/4436484713233983](http://lattes.cnpq.br/4436484713233983)
+- 📄 Know about my experiences: [Lattes](http://lattes.cnpq.br/4436484713233983)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,4 +36,4 @@
 |----------|----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="MacOS" alt="MacOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/>| 
 
-![Snake animation](https://github.com/g-abilio/g-abilio/blob/output/github-contribution-grid-snake-dark.svg)
+
